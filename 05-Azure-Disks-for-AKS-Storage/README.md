@@ -1,5 +1,13 @@
 # Azure AKS Storage - Azure Disks
 
+# Preclude
+
+1. What do you mean by a volume vs persistant volume?
+2. What is storage class in Azure?
+3. What do you mean by a persistant volume claim?
+4. Follow this [link](https://www.youtube.com/watch?v=ggIEe8wPGJM)
+
+
 ## Topics
 1. Understand about Azure Disks
 2. How we are going to use Azure Disks for Applications deployed on AKS for persistent Storage?
