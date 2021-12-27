@@ -6,6 +6,7 @@
 2. What is storage class in Azure?
 3. What do you mean by a persistant volume claim?
 4. Follow this [link](https://www.youtube.com/watch?v=ggIEe8wPGJM)
+5. In-depth analysis of PV, PVC, Storage Class: https://www.youtube.com/watch?v=0swOh5C3OVM
 
 
 ## Topics
